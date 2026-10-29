@@ -1,5 +1,5 @@
 # ReL-FL
-ReL-FL: Transformer-guided Relational Reasoning for Update Prioritization in Federated Learning (WACV 2027)
+ReL-FL: Transformer-guided Relational Reasoning for Update Prioritization in Federated Learning
 
 Accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2027).
 
